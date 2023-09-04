@@ -1,0 +1,6 @@
+I installed the steam program, but it does not work with my Ubuntu Studio.
+The operating system is up to date.
+I installed Steam as instructed in the guide on the official site, but when starting the Ubuntu program this happens:
+
+You are missing the following 32-bit libraries, and Steam may not run:
+libc.so.6
